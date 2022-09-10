@@ -1,7 +1,5 @@
 # Employee-Attrition-Prediction
 
-**Description**
-
 The aim is to predict if an employee will leave the current job or not based on features such as educational qualification, salary, work time, age, gender etc. For doing so, Machine learning algorithms such as KNN, Support Vector Machine, Logistic regression and Random Forest are used.
 
 **Technogy**
