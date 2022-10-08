@@ -8,5 +8,4 @@ For data preprocessing, data visualization, feature engineering, sampling of dat
 
 **Frontend**
 
-![Screenshot (173)](https://user-images.githubusercontent.com/91329268/194707408-d8503465-a544-446d-b923-048d174e56cc.png)
 ![Sumedha Zaware](https://user-images.githubusercontent.com/91329268/194707555-67baf329-ed1f-4369-af82-a758cc3893b8.png)
