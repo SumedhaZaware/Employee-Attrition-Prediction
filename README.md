@@ -5,3 +5,7 @@ The aim is to predict if an employee will leave the current job or not based on 
 **Technogy**
 
 For data preprocessing, data visualization, feature engineering, sampling of dataset and model building, **Python** is used as the programming language. For implementing the frontend, **Streamlit** is used.
+
+**Frontend**
+
+![Screenshot (173)](https://user-images.githubusercontent.com/91329268/194707408-d8503465-a544-446d-b923-048d174e56cc.png)
